@@ -14,18 +14,3 @@
 .date-box {
   margin-right: 0.2rem;
 }
-.result-time {
-  position: absolute;
-  top: 11.8rem;
-  left: 0.8rem;
-}
-.result-time .hour {
-  color: #55b974;
-  font-size: 0.8rem;
-  font-weight: 700;
-}
-.result-time .hour-text {
-  color: #2d2d2d;
-  font-size: 0.34rem;
-  font-weight: 700;
-}
